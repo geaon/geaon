@@ -6,7 +6,8 @@
 📚 Lifelong learner <br />
 
 🌱 I'm continuing my learning by practising core skills and exploring new technologies  <br />
-📫 You can get in touch on LinkedIn, I'd love to hear from you!
+📫 You can get in touch on LinkedIn www.linkedin.com/in/georgia-o-neill  <br />
+🙋‍♀️ I'd love to hear from you!
 
 <!--
 **geaon/geaon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
