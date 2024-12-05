@@ -6,6 +6,7 @@
 📚 Lifelong learner <br />
 
 🌱 I'm continuing my learning by practising core skills and exploring new technologies  <br />
+
 📫 You can get in touch on LinkedIn www.linkedin.com/in/georgia-o-neill  <br />
 🙋‍♀️ I'd love to hear from you!
 
