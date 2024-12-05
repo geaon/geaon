@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there, I'm Georgia 👋
+🎓 Recent graduate of the Northcoders Software Development Bootcamp <br />
+🍎 Former Primary School Teacher of 7 years <br />
+
+🏰 Castle enthusiast <br />
+📚 Lifelong learner <br />
+
+🌱 I'm continuing my learning by practising core skills and exploring new technologies  <br />
+📫 You can get in touch on LinkedIn, I'd love to hear from you!
 
 <!--
 **geaon/geaon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
